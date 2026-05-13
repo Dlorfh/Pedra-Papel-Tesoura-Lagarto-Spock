@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("https://img.freepik.com/fotos-premium/vibrante-fundo-de-evento-de-esportes-eletronicos-com-controladores-de-jogo-de-neon-e-elementos-de-design-abstrato_43969-52608.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;       
+    background-repeat: no-repeat;
+    background-position: center;  
+    height: 95vh;  
+}
+h1{
+    width: fit-content;
+    margin: 20px auto;
+    padding: 6px;
+    background-color: black;
+    border: solid 5px blue;
+    color: white;
+    border-radius: 20px;
+}
+p{
+    width: fit-content;
+    background-color: black;
+    border: solid 5px blue;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 6px;
+    margin: 20px auto;
+}
+div{
+    text-align: center;
+}
+img.bla{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img{
+    border: solid 5px blue;
+    border-radius: 20px;
+    width: 200px;
+    height: 195px;
+}
+img#usuario{
+    width: 200px;
+    height: 195px;
+}
+img#imgMaquina{
+    width: 200px;
+    height: 195px;
+}
+button{
+    width: fit-content;
+    background-color: black;
+    border: solid 5px blue;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
